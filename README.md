@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm ending  my internship as Sysadmin .<br>I like to code in bash and learning python. ^_
+I'm ending  my internship as Sysadmin .<br>  coding with bash and learning python. ^_^  
 
 
 
